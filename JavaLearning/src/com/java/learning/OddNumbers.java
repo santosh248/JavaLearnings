@@ -12,5 +12,6 @@ public class OddNumbers {
      }while(x<=30);
     	 
 	}
+	System.out.println("Odd Numbers");
 
 }
