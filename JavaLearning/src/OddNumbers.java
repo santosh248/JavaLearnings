@@ -1,4 +1,4 @@
-package com.java.learning;
+
 public class OddNumbers {
 
 	public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class OddNumbers {
     	x++	 ;
     	 
      }while(x<=30);
-     System.out.println("Odd Numbers");
+     System.out.println("OddNumbers");
     	 
 	}
 	
